@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.env
+
+.ipynb_checkpoints/
+
+*.csv
+
+*.zip
+
+.DS_Store
+Student Social Media And Mental Health Impact.csv
