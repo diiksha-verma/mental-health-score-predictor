@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------
 // Config — point this at your running FastAPI backend.
 // ---------------------------------------------------------------
-const API_URL = "https://mental-health-score-predictor-47op.onrender.com";
+const API_URL = "https://mental-health-score-predictor-47op.onrender.com/predict";
 
 // ---------------------------------------------------------------
 // Elements
