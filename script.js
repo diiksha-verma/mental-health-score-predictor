@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------
 // Config — point this at your running FastAPI backend.
 // ---------------------------------------------------------------
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://mental-health-score-predictor-47op.onrender.com";
 
 // ---------------------------------------------------------------
 // Elements
