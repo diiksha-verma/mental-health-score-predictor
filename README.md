@@ -1,16 +1,10 @@
-# 🧠 Mental Health Score Predictor
+# Mental Health Score Predictor
 
 > A full-stack Machine Learning web application that predicts a student's Mental Health Score based on lifestyle, academic, and social media usage patterns.
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ---
 
-## 📌 Overview
+## Overview
 
 Mental health among students is influenced by multiple factors such as social media usage, sleep patterns, study habits, physical activity, and stress levels.
 
@@ -20,7 +14,7 @@ The application provides an elegant user interface where users can enter their i
 
 ---
 
-## ✨ Features
+## Features
 
 - Predicts Mental Health Score using Machine Learning
 - FastAPI REST API backend
@@ -35,7 +29,7 @@ The application provides an elegant user interface where users can enter their i
 
 ---
 
-# 🖥️ Application Preview
+# Application Preview
 
 ### User enters details
 
@@ -72,7 +66,7 @@ Interactive Gauge Display
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -101,7 +95,7 @@ Interactive Gauge Display
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Mental-Health-Predictor/
@@ -117,7 +111,7 @@ Mental-Health-Predictor/
 
 ---
 
-# ⚙️ Machine Learning Workflow
+# Machine Learning Workflow
 
 Dataset
 
@@ -151,7 +145,7 @@ FastAPI Deployment
 
 ---
 
-# 📊 Features Used
+# Features Used
 
 - Age
 - Gender
@@ -168,7 +162,7 @@ FastAPI Deployment
 
 ---
 
-# 🧠 Prediction Pipeline
+# Prediction Pipeline
 
 The backend automatically performs:
 
@@ -182,7 +176,7 @@ using a Scikit-Learn Pipeline before returning the prediction.
 
 ---
 
-# 🚀 Running the Project
+# Running the Project
 
 ## Clone Repository
 
@@ -244,7 +238,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 📈 API Endpoint
+# API Endpoint
 
 ### POST
 
@@ -281,7 +275,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 📊 Model Performance
+# Model Performance
 
 Model Used
 
@@ -295,7 +289,7 @@ Evaluation Metrics
 
 ---
 
-# 💡 What I Learned
+# What I Learned
 
 - Building REST APIs with FastAPI
 - Model serialization using Joblib
@@ -310,7 +304,7 @@ Evaluation Metrics
 
 ---
 
-# 🎯 Future Improvements
+# Future Improvements
 
 - User Authentication
 - Database Integration
@@ -322,7 +316,7 @@ Evaluation Metrics
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Diksha Verma**
 
@@ -332,4 +326,4 @@ JSS Academy of Technical Education, Noida
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+ If you found this project useful, consider giving it a star.
